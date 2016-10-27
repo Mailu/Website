@@ -41,4 +41,4 @@ A more detailed list of changes is available in the project [changelog](https://
 Please read the [Setup Guide](https://github.com/kaiyou/freeposte.io/wiki/Setup-Guide)
 if you plan on setting up a new mail server. Freeposte.io is free software,
 you are more than welcome to report issues, ask for features or enhancements,
-or event contribute your own modifications!
+or contribute your own modifications!
