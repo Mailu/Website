@@ -1,6 +1,6 @@
 # Setup
-title:        Freeposte.io
-tagline:      Simple yet full-featured mail server as a set of Docker images
+title:        Mailu
+tagline:      Insular e-mail distribution
 baseurl:      ""
 exclude:
   - Gemfile
@@ -8,14 +8,14 @@ exclude:
 
 # About/contact
 author:
-  name:       kaiyou
-  url:        https://kaiyou.fr
+  name:       Mailu contributors
+  url:        https://github.com/Mailu/
 
 # Main links
 links:
-  doc:        https://github.com/kaiyou/freeposte.io/wiki
-  setup:      https://github.com/kaiyou/freeposte.io/wiki/Setup-Guide
-  github:     https://github.com/kaiyou/freeposte.io
+  doc:        https://github.com/Mailu/Mailu/wiki
+  setup:      https://github.com/Mailu/Mailu/wiki/Setup-Guide
+  github:     https://github.com/Mailu/Mailu
 
 # Gems
 gems:

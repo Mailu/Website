@@ -13,7 +13,7 @@ title: {{ site.name }}
 
 # Features and architecture
 
-Freeposte.io is a simple yet full-featured mail server as a set of Docker images.
+Mailu is a simple yet full-featured mail server as a set of Docker images.
 It is free software (both as in free beer and as in free speech), open to
 suggestions and external contributions. The project aims at providing people
 with an easily setup, easily maintained and full-featured mail server while
