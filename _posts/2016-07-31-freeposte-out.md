@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Freeposte.io 1.1.0 is out!"
 date:   2016-07-31 17:50:00
 ---

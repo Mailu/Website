@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "And it's already time for Freeposte.io 1.2"
 date:   2016-08-20 11:40:00
 ---

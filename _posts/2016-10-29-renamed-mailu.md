@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title:  "Freeposte.io renamed to Mailu"
-date:   2016-10-29 11:40:00
+date:   2016-10-29 09:40:00
 ---
 In the past few weeks and months, this project has gained some interesting
 traction and as mentionned by some contributors, it was time for us to get
