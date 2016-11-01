@@ -5,6 +5,6 @@ install: bundle install
 script: bundle exec jekyll build
 deploy:
   provider: script
-  script: find . -type f -exec curl -k -u $FTP_USERNAME:$FTP_PASSWORD --ftp-create-dirs -T {} sftp://$FTP_SERVER/$FTP_PATH {} \;
+  script: find . -type f -exec curl -k -u $FTP_USERNAME:$FTP_PASSWORD --ftp-create-dirs -T {} sftp://$FTP_HOST/$FTP_PATH {} \;
   on:
     branch: master
