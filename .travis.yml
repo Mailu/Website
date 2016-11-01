@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+  - 2.1
+install: bundle install
+script: bundle exec jekyll build
+after_success: find . -type f -exec curl -k -u $FTP_USERNAME:$FTP_PASSWORD --ftp-create-dirs -T {} sftp://$FTP_SERVER/$FTP_PATH {} \;
