@@ -6,6 +6,6 @@ script: bundle exec jekyll build
 deploy:
   skip_cleanup: true
   provider: script
-  script: bundle exec travis-custom-deploy sftp service:jekyll
+  script: bundle install && bundle exec travis-custom-deploy sftp service:jekyll
   on:
     branch: master
