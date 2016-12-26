@@ -18,7 +18,7 @@ It is free software (both as in free beer and as in free speech), open to
 suggestions and external contributions. The project aims at providing people
 with an easily setup, easily maintained and full-featured mail server while
 not shipping proprietary software nor unrelated features often found in
-propular groupware.
+popular groupware.
 
 Main features include:
 
@@ -34,7 +34,7 @@ Main features include:
 # Screenshots
 
 - [Reading emails in Roundcube](screenshots/roundcube.png)
-- [Logging into the adminitration interface](screenshots/login.png)
+- [Logging into the administration interface](screenshots/login.png)
 - [Editing personal settings](screenshots/dashboard.png)
 - [Setting up a vacation reply](screenshots/vacation.png)
 - [Checking the server and containers status](screenshots/status.png)
